@@ -79,7 +79,7 @@
       "Politi",
       "Teknisk etat i kommunene",
       "Flyktningekonsulent",
-      "Nav",
+      "NAV",
       "Helfo",
       "Tillitsvalgte",
       "Huseier",
@@ -89,9 +89,15 @@
       "Sykehjem",
       "Hjemmesykepleie",
       "Innsatte i fengsler",
-      "Bemanning i fengsler"
+      "Bemanning i fengsler",
       "Psykiatriske institusjoner",
       "Skole"
+    ]
+  },
+  {
+    "name": "Team kommunikasjon",
+    "imports": [
+
     ]
   },
   {
@@ -104,16 +110,427 @@
   {
     "name": "Leverandører",
     "imports": [
-      "flare.vis.data.EdgeSprite",
-      "flare.vis.data.NodeSprite",
-      "flare.vis.data.DataList",
-      "flare.vis.data.Tree",
-      "flare.util.Arrays",
-      "flare.analytics.cluster.MergeEdge",
-      "flare.util.Sort",
-      "flare.vis.operator.Operator",
-      "flare.util.Property",
-      "flare.vis.data.Data"
+
+    ]
+  },
+  {
+    "name": "Journalister",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Styrerepresentanter",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Regionale samarbeidspartnere",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Frivillige organisasjoner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Andre fylker",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Departementer",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Direktorater",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Kommuner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Våre selskaper",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Frivillige organisasjoner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Kommuner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Skoleeier",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Barnehageeier",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Folkehelsenettverket",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Folkehelsekoordinatorer",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Idrettskonsulenter",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Fylkesmannen",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Korus",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Forum for frivillighet",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Tannhelsetjenesten",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Avdeling for videregående opplæring",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Areal og transport",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Fylkespolitikere",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Kommunepolitikere",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Barnehager",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Grunnskoler",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Videregående skoler",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Nasjonalt senter for mat, fysisk aktivitet og helse",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Andre fylkeskommuner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Helsedirektoratet",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Kulturdepartementet",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Norsk sjømatråd",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Ressursgrupper",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Elever i videregående skole",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Høgskolen i Sørøst-Norge",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Røde Kors",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Den norske turistforening",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Telemarksforskning",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Forum for natur og friluftsliv",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Interkommunale friluftsråd",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Regionrådene",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Miljødirektoratet",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Statens vegvesen",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Trygg Trafikk",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "NAV",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Pasienter",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Pårørende",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Administrasjonen",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Politikere",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Leger",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Sykehus",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Psykolog",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Media",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Bedriftshelsetjenesten",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Brannvesen",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Politi",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Teknisk etat i kommunene",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Flyktningekonsulent",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Helfo",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Tillitsvalgte",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Huseier",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Renholdsbyrå",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Vaktmestertjenester",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Helsestasjoner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Sykehjem",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Hjemmesykepleie",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Innsatte i fengsler",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Bemanning i fengsler",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Psykiatriske institusjoner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Skole",
+    "imports": [
+
     ]
   }
 ]
