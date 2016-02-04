@@ -63,6 +63,37 @@
       "NAV",
     ]
   },
+   {
+    "name": "Tannhelsetjenesten",
+    "imports": [
+      "Pasienter",
+      "Pårørende",
+      "Administrasjonen",
+      "Politikere",
+      "Leger",
+      "Sykehus",
+      "Psykolog",
+      "Media",
+      "Bedriftshelsetjenesten",
+      "Brannvesen",
+      "Politi",
+      "Teknisk etat i kommunene",
+      "Flyktningekonsulent",
+      "Nav",
+      "Helfo",
+      "Tillitsvalgte",
+      "Huseier",
+      "Renholdsbyrå",
+      "Vaktmestertjenester",
+      "Helsestasjoner",
+      "Sykehjem",
+      "Hjemmesykepleie",
+      "Innsatte i fengsler",
+      "Bemanning i fengsler"
+      "Psykiatriske institusjoner",
+      "Skole"
+    ]
+  },
   {
       
     "name": "Økonomi",
