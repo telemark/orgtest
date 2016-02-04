@@ -8,10 +8,53 @@
     ]
   },
   {
+    "name": "Folkehelse",
+    "imports": [
+      "Frivillige organisasjoner",
+      "Kommuner",
+      "Skoleeier",
+      "Barnehageeier",
+      "Folkehelsenettverket",
+      "Folkehelsekoordinatorer",
+      "Idrettskonsulenter",
+      "Fylkesmannen",
+      "Korus",
+      "Forum for frivillighet",
+      "Tannhelsetjenesten",
+      "Avdeling for videregående opplæring",
+      "Team kommunikasjon",
+      "Areal og transport",
+      "Fylkespolitikere",
+      "Kommunepolitikere",
+      "Barnehager",
+      "Grunnskoler",
+      "Videregående skoler",
+      "Nasjonalt senter for mat, fysisk aktivitet og helse",
+      "Andre fylkeskommuner",
+      "Helsedirektoratet",
+      "Kulturdepartementet",
+      "Norsk sjømatråd",
+      "Ressursgrupper",
+      "Elever i videregående skole",
+      "Høgskolen i Sørøst-Norge",
+      "Røde Kors",
+      "Den norske turistforening",
+      "Telemarksforskning",
+      "Forum for natur og friluftsliv",
+      "Interkommunale friluftsråd",
+      "Regionrådene",
+      "Miljødirektoratet",
+      "Statens vegvesen",
+      "Trygg Trafikk",
+      "NAV",
+      
+    ]
+  },
+  {
+      
     "name": "Økonomi",
     "imports": [
-      "Team Service",
-      "Leverandører"
+      
     ]
   },
   {
