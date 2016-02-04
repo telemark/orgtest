@@ -7,8 +7,22 @@
       "Team Service"
     ]
   },
+   {
+    "name": "Staben",
+    "imports": [
+      "Journalister",
+      "Styrerepresentanter",
+      "Regionale samarbeidspartnere",
+      "Frivillige organisasjoner",
+      "Andre fylker",
+      "Departementer",
+      "Direktorater",
+      "Kommuner",
+      "Våre selskaper",
+    ]
+  },
   {
-    "name": "Folkehelse",
+    "name": "Folkehelse, idrett, friluftsliv",
     "imports": [
       "Frivillige organisasjoner",
       "Kommuner",
@@ -47,7 +61,6 @@
       "Statens vegvesen",
       "Trygg Trafikk",
       "NAV",
-      
     ]
   },
   {
