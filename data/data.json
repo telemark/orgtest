@@ -1,5 +1,11 @@
 [
   {
+    "name": "Areal og transport",
+    "imports": [
+
+    ]
+  },
+  {
     "name": "Team Service",
     "imports": [
       "Økonomi",
@@ -212,6 +218,12 @@
     ]
   },
   {
+    "name": "Andre fylker",
+    "imports": [
+
+    ]
+  },
+  {
     "name": "Leverandører",
     "imports": [
 
@@ -237,12 +249,6 @@
   },
   {
     "name": "Frivillige organisasjoner",
-    "imports": [
-
-    ]
-  },
-  {
-    "name": "Andre fylker",
     "imports": [
 
     ]
@@ -339,12 +345,6 @@
   },
   {
     "name": "Avdeling for videregående opplæring",
-    "imports": [
-
-    ]
-  },
-  {
-    "name": "Areal og transport",
     "imports": [
 
     ]
@@ -963,6 +963,18 @@
   },
   {
     "name": "Skole",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Rådgiver i ungdomsskolen",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Voksenopplæringsansvarlig i andre fylker",
     "imports": [
 
     ]
