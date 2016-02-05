@@ -4,7 +4,12 @@
     "imports": [
       "Økonomi",
       "Leverandører",
-      "Team Service"
+      "Team Service",
+      "Administrasjonen",
+      "Videregående skoler",
+      "Tannklinikker",
+      "Politikere",
+      "Leietagere"
     ]
   },
    {
@@ -93,6 +98,63 @@
       "Psykiatriske institusjoner",
       "Skole"
     ]
+  },
+  {
+      "name": "Avdeling for videregående opplæring",
+      "imports": [
+          "Administrasjonen",
+          "Administrasjonen på skolene",
+          "Andre fylkeskommuner",
+          "Avdeling for videregående opplæring",
+          "Bedrifter",
+          "Eksamenslokaler",
+          "Elever i videregående skole",
+          "FO",
+          "Foreldre og foresatte",
+          "Grunnskoler",
+          "Rådgiver i ungdomsskolen",
+          "Helsesøster",
+          "Kommunale helsetjenester",
+          "KUE",
+          "Psykolog",
+          "Leger",
+          "Spesialisthelsetjenesten",
+          "Sykehus",
+          "Barnevernet",
+          "BUP",
+          "Keops",
+          "Høgskolen i Sørøst-Norge",
+          "Team IT",
+          "Kommuner",
+          "Lærere",
+          "Lærlinger",
+          "Media",
+          "NAV",
+          "Opplæringskontor",
+          "Oppfølgingstjenesten", 
+          "Organisasjoner", 
+          "Faglige ledere", 
+          "Skoleledere", 
+          "Politikere",
+          "PPT",
+          "Praksiskandidater",
+          "Privatister",
+          "Internasjonale prosjektpartnere",
+          "Prøvenemder",
+          "Reaktorskolen",
+          "Sensorer",
+          "Sonans",
+          "Fylkesmannen",
+          "Utdanningsdirektoratet",   
+          "Statped",
+          "AOF", 
+          "Fagsystemansvarlige",
+          "Søkere",
+          "Ungdom",
+          "Videregående skoler",
+          "VIGO",
+          "Voksenopplæringsansvarlig i andre fylker"           
+      ]
   },
   {
     "name": "Team kommunikasjon",
@@ -526,6 +588,234 @@
     "imports": [
 
     ]
+  },
+  {
+    "name": "Tannklinikker",
+    "imports": [
+
+    ]
+  },
+  {
+      "name": "Administrasjonen på skolene",
+      "imports": [
+          
+      ]
+  },
+  {
+    "name": "Leietagere",
+    "imports": [
+
+    ]
+  },
+  {
+      "name": "Bedrifter",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Eksamenslokaler",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "FO",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Foreldre og foresatte",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Rådgiver i grunnskolen",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Helsesøster",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Kommunale helsetjenester",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "KUE",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Spesialisthelsetjenesten",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Barnevernet",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "BUP",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Keops",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Team IT",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Lærere",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Lærlinger",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Opplæringskontor",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Oppfølgingstjenesten",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Organisasjoner",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Faglige ledere",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Skoleledere",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "PPT",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Praksiskandidater",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Privatister",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Internasjonale prosjektpartnere",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Prøvenemder",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Reaktorskolen",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Sensorer",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Sonans",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Utdanningsdirektoratet",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Statped",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "AOF",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Fagsystemansvarlige",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Søkere",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Ungdom",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "VIGO",
+      "imports": [
+          
+      ]
   },
   {
     "name": "Skole",
