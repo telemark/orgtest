@@ -171,6 +171,26 @@
       ]
   },
   {
+      "name": "Økonomi og regnskap",
+      "imports": [
+          "Politikere",
+          "Media",
+          "Elever i videregående skole",
+          "Foreldre og foresatte",
+          "Bedrifter",
+          "Foreninger",
+          "Lag",
+          "Selskaper hvor TFK har eierinteresser",
+          "Budsjettansvarlige",
+          "Ledere i TFK",
+          "Administrasjonen på skolene",
+          "Administrasjonen på tannklinikkene",
+          "KS",
+          "Telemarksforskning",
+          "Skatteetaten"
+      ]
+  },
+  {
     "name": "Team kommunikasjon",
     "imports": [
 
@@ -869,6 +889,60 @@
   },
   {
       "name": "Håndverkere",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Foreninger",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Lag",
+      "imports": [
+          
+      ] 
+  },
+  {
+      "name": "Selskaper hvor TFK har eierinteresser",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Budsjettansvarlige",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Ledere i TFK",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Administrasjonen på tannklinikkene",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "KS",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Telemarksforskning",
+      "imports" [
+          
+      ]
+  },
+  {
+      "name": "Skatteetaten",
       "imports": [
           
       ]
