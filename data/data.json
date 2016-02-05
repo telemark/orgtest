@@ -153,7 +153,21 @@
           "Ungdom",
           "Videregående skoler",
           "VIGO",
-          "Voksenopplæringsansvarlig i andre fylker"           
+          "Voksenopplæringsansvarlig i andre fylker",
+          "Håndverkere"           
+      ]
+  },
+  {
+      "name": "Kulturminnevern",
+      "imports": [
+          "Tiltakshavere",
+          "Plankontor",
+          "Kommuner",
+          "Elever i videregående skole",
+          "Privatpersoner",
+          "Museum",
+          "Riksantikvaren",
+          "Søkere på tilskuddsmidler"
       ]
   },
   {
@@ -813,6 +827,48 @@
   },
   {
       "name": "VIGO",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Tiltakshavere",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Plankontor",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Privatpersoner",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Museum",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Riksantikvaren",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Søkere på tilskuddsmidler",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Håndverkere",
       "imports": [
           
       ]
