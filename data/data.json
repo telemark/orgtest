@@ -191,6 +191,14 @@
       ]
   },
   {
+      "name": "Innkjøp",
+      "imports": [
+          "Ansvarlige for miljøfyrtårn",
+          "Ledere i TFK",
+          "Lærere",
+      ]
+  }
+  {
     "name": "Team kommunikasjon",
     "imports": [
 
@@ -943,6 +951,12 @@
   },
   {
       "name": "Skatteetaten",
+      "imports": [
+          
+      ]
+  },
+  {
+      "name": "Ansvarlige for miljøfyrtårn",
       "imports": [
           
       ]
