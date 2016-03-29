@@ -2,7 +2,7 @@
   {
     "name": "Team Service",
     "imports": [
-      "Økonomi",
+      "Økonomi og regnskap",
       "Leverandører",
       "Team Service",
       "Administrasjonen",
@@ -25,6 +25,32 @@
       "Kommuner",
       "Våre selskaper"
     ]
+  },
+  {
+      "name": "Team arkiv",
+      "imports": [
+          "Administrasjonen",
+          "Videregående skoler",
+          "Tannklinikker",
+          "Politikere",
+          "Hoteller",
+          "Media",
+          "Organisasjoner",
+          "Bypost",
+          "Bring",
+          "Posten",
+          "Leverandører",
+          "Arkivdepoter",
+          "Statsarkivet i Kongsberg",
+          "Elever i videregående skole",
+          "Foreldre og foresatte",
+          "PPT",
+          "Oppfølgingstjenesten",
+          "Ledere i TFK",
+          "Andre fylkeskommuner",
+          "Kommuner",
+          "Karrieresenteret"
+      ]
   },
   {
       "name": "Team IT",
@@ -223,6 +249,109 @@
       ]
   },
   {
+      "name": "Areal og Transport",
+      "imports": [
+          "Kommuner",
+          "Jernbaneverket",
+          "Fylkesmannen",
+          "Fylkesmannen i Buskerud",
+          "Andre fylkeskommuner",
+          "Regionrådene",
+          "Regionale næringsselskap",
+          "Kystverket",
+          "Havnene i Telemark",
+          "Kommunal- og moderniseringsdepartementet",
+          "Samferdselsdepartementet",
+          "Transportkomiteen på Stortinget",
+          "Statens kartverk",
+          "Statens vegvesen",
+          "Vegdirektoratet",
+          "Politi",
+          "Nasjonalt forum for stedsutvikliing",
+          "Distriktssenteret",
+          "Husbanken",
+          "KS",
+          "Fiskeridirektoratet",
+          "NVE",
+          "Brønnøysundregisteret",
+          "Skatt Sør",
+          "Drosjesjåfører",
+          "Pasientreiser",
+          "Grunnskoler",
+          "Videregående skoler",
+          "Klagenemda",
+          "Utdanningsdirektør hos fylkesmannen",
+          "Utdanningsdirektoratet",
+          "Leger",
+          "Sykehus",
+          "Barnevernet",
+          "NSB",
+          "Politikere",
+          "BTV innkjøp",
+          "NIBR",
+          "Enova",
+          "Nye Veger AS",
+          "Ungdomsrådene",
+          "BTVØ stedsuvikling",
+          "LO",
+          "NHO",
+          "Østlandssamarbeidet",
+          "Jernbaneforum sør",
+          "Plattform Vestfold",
+          "Nordisk transportpolitisk nettverk",
+          "Trygg Trafikk",
+          "NAF",
+          "Forum for frivillighet",
+          "Fylkesrådet for personer med nedsatt funksjonsevne",
+          "Bygdelag",
+          "Norges taxiforbund avd. Telemark",
+          "Kollektivtrafikkforeningen",
+          "NHO transport",
+          "Busselskap",
+          "Ferjeselskap",
+          "Leverandører",
+          "Innleide konsulenter",
+          "Arkitektkontor",
+          "Drosjesentralene",
+          "Drosjeløyvehaverne",
+          "Taxitransport Telemark",
+          "Media",
+          "Torp lufthavn",
+          "Notodden lufthavn",
+          "Rogaland taxi",
+          "Foreldre og foresatte",
+          "Elever i videregående skole",
+          "VKT",
+          "IKT Telemark",
+          "NTNU",
+          "Næringsforeninger",
+          "Næringslivet",
+          "Høgskolen i Sørøst-Norge",
+          "Haukelivegen AS",
+          "TØIs kollektivforum",
+          "Vegfinans AS",
+          "Kollektivkunder",
+          "Team kulturminne",
+          "Team næring",
+          "Team kultur",
+          "Team folkehelse, idrett og friluftsliv",
+          "Ungt entrepenørskap",
+          "Videregående skoler",
+          "Team kommunikasjon",
+          "Team IT",
+          "Team arkiv",
+          "Fylkesadvokatene",
+          "Team Service",
+          "Økonomi og regnskap",
+          "Personalavdelingen",
+          "Telemarkskanalen regionalpark",
+          "Telemarkskanalen AS",
+          "Analysegruppa",
+          "Fylkesordføreren",
+          "Hovedutvalgsledere"                
+      ]
+  },
+  {
       "name": "Kulturminnevern",
       "imports": [
           "Tiltakshavere",
@@ -271,7 +400,7 @@
   },
   {
       
-    "name": "Økonomi",
+    "name": "Økonomi og regnskap",
     "imports": [
       
     ]
@@ -1226,6 +1355,480 @@
   },
      {
     "name": "Bilverksteder",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Bypost",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Bring",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Posten",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Arkivdepoter",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Statsarkivet i Kongsberg",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Karrieresenteret",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Jernbaneverket",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Fylkesmannen i Buskerud",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Regionale næringsselskap",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kystverket",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Havnene i Telemark",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kommunal- og moderniseringsdepartementet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Samferdselsdepartementet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Transportkomiteen på Stortinget",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Statens kartverk",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Vegdirektoratet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Nasjonalt forum for stedsutvikling",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Distriktssenteret",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Husbanken",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "KS",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Fiskeridirektoratet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "NVE",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Brønnøysundregisteret",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Skatt Sør",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Drosjesjåfører",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Pasientreiser",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Klagenemda",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Utdanningsdirektør hos fylkesmannen",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "NSB",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "BTV Innkjøp",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "NIBR",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "ENOVA",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Nye Veger AS",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Ungdomsrådene",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "BTVØ stedsutvikling",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "LO",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "NHO",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "NHO Transport",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Østlandssamarbeidet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Jernbaneforum sør",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Plattform Vestfold",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Nordisk transportpolitisk nettverk",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "NAF",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Fylkesrådet for personer med nedsatt funksjonsevne",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Bygdelag",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Norges taxiforbund avd. Telemark",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kollektivtrafikkforeningen",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Busselskap",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Ferjeselskap",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Innleide konsulenter",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Arkitektkontor",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Drosjesentralene",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Drosjeløyvehaverne",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Taxitransport Telemark",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Torp lufthavn",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Notodden lufthavn",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Rogaland Taxi",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "VKT",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "IKT Telemark",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "NTNU",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Næringsforeninger",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Næringslivet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Haukelivegen AS",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "TØIs kollektivforum",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Vegfinans AS",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kollektivkunder",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Team kulturminnevern",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Team kultur",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Team næring",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Team folkehelse, idrett og friluftsliv",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Team arkiv",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Fylkesadvokatene",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Team Service",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Personalavdelingen",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Telemarkskanalen regionalpark",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Telemarkskanalen AS",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Analysegruppa",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Fylkesordføreren",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Hovedutvalgsledere",
     "imports": [
 
     ]
