@@ -27,6 +27,32 @@
     ]
   },
   {
+      "name": "Team arkiv",
+      "imports": [
+          "Administrasjonen",
+          "Videregående skoler",
+          "Tannklinikker",
+          "Politikere",
+          "Hoteller",
+          "Media",
+          "Organisasjoner",
+          "Bypost",
+          "Bring",
+          "Posten",
+          "Leverandører",
+          "Arkivdepoter",
+          "Statsarkivet i Kongsberg",
+          "Elever i videregående skole",
+          "Foreldre og foresatte",
+          "PPT",
+          "Oppfølgingstjenesten",
+          "Ledere i TFK",
+          "Andre fylkeskommuner",
+          "Kommuner",
+          "Karrieresenteret"
+      ]
+  },
+  {
       "name": "Team IT",
       "imports": [
           "Administrasjonen",
@@ -1226,6 +1252,42 @@
   },
      {
     "name": "Bilverksteder",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Bypost",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Bring",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Posten",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Arkivdepoter",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Statsarkivet i Kongsberg",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Karrieresenteret",
     "imports": [
 
     ]
