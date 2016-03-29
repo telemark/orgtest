@@ -1,11 +1,5 @@
 [
   {
-    "name": "Areal og transport",
-    "imports": [
-
-    ]
-  },
-  {
     "name": "Team Service",
     "imports": [
       "Økonomi",
@@ -55,6 +49,47 @@
           "Skole",
           "Administrasjonen"      
       ]
+  },
+  {
+      "name": "Team kultur",
+      "imports": [
+          "Kulturinstitusjoner",
+          "Kulturansatte i kommunene",
+          "Administrasjonen",
+          "Kulturaktører",
+          "Utøvere i den kulturelle skolesekken",
+          "Søkere på tilskudd",
+          "Videregående skoler",
+          "Valgforum",
+          "Kommuner",
+          "Utøvere",
+          "Arrangører",
+          "Agenter",
+          "Teknikere",
+          "Publikum",
+          "Media",
+          "Musikere",
+          "UKM-deltagere",
+          "Festivaler",
+          "Kulturhus",
+          "Politikere",
+          "Grunnskoler",
+          "Produsenter",
+          "Kunstnere",
+          "Kommunekoordinatorer",
+          "Kulturkontakter",
+          "Museum- og arkivnettverk",
+          "Andre fylkeskultursjefer",
+          "Regionalforvaltninger",
+          "Festivalnettverket",
+          "Barnehager",
+          "Sykehjem",
+          "Asylmottak",
+          "Andre fylkeskommuner",
+          "Kulturrådet",
+          "Hoteller",
+          "Bilverksteder"                 
+      ]   
   },
   {
     "name": "Folkehelse, idrett, friluftsliv",
@@ -242,12 +277,6 @@
     ]
   },
   {
-    "name": "Andre fylker",
-    "imports": [
-
-    ]
-  },
-  {
     "name": "Leverandører",
     "imports": [
 
@@ -273,6 +302,12 @@
   },
   {
     "name": "Frivillige organisasjoner",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Andre fylker",
     "imports": [
 
     ]
@@ -369,6 +404,12 @@
   },
   {
     "name": "Avdeling for videregående opplæring",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Areal og transport",
     "imports": [
 
     ]
@@ -990,18 +1031,6 @@
     "imports": [
 
     ]
-  },
-  {
-    "name": "Rådgiver i ungdomsskolen",
-    "imports": [
-
-    ]
-  },
-  {
-    "name": "Voksenopplæringsansvarlig i andre fylker",
-    "imports": [
-
-    ]
   }, 
  {
     "name": "IT-ansvarlige",
@@ -1035,6 +1064,168 @@
   },
    {
     "name": "BTV-samarbeidet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kulturinstitusjoner",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kulturansatte i kommunene",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kulturaktører",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Utøvere i den kulturelle skolesekken",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Søkere på tilskudd",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Valgforum",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Utøvere",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Arrangører",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Agenter",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Teknikere",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Publikum",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Musikere",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "UKM-deltagere",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Festivaler",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kulturhus",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Produsenter",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kunstnere",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kommunekoordinatorer",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kulturkontakter",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Museum- og arkivnettverk",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Andre fylkeskultursjefer",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Regionalforvaltninger",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Festivalnettverket",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Asylmottak",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Kulturrådet",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Hoteller",
+    "imports": [
+
+    ]
+  },
+     {
+    "name": "Bilverksteder",
     "imports": [
 
     ]
