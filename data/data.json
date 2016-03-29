@@ -33,6 +33,30 @@
     ]
   },
   {
+      "name": "Team IT",
+      "imports": [
+          "Administrasjonen",
+          "IT-ansvarlige",
+          "Fagsystemansvarlige",
+          "Lærere",
+          "Elever i videregående skole",
+          "Privatister",
+          "Leverandører",
+          "Innleide konsulenter",
+          "Andre fylkeskommuner",
+          "Kommuner",
+          "Buf-etat",
+          "Statens vegvesen",
+          "Fylkesmannen",
+          "Prøvenemder",
+          "Delingsfora",
+          "Gjester",
+          "BTV-samarbeidet",
+          "Skole",
+          "Administrasjonen"      
+      ]
+  },
+  {
     "name": "Folkehelse, idrett, friluftsliv",
     "imports": [
       "Frivillige organisasjoner",
@@ -978,5 +1002,43 @@
     "imports": [
 
     ]
+  }, 
+ {
+    "name": "IT-ansvarlige",
+    "imports": [
+
+    ]
+  },     
+ {
+    "name": "Innleide konsulenter",
+    "imports": [
+
+    ]
+  },
+   {
+    "name": "Buf-etat",
+    "imports": [
+
+    ]
+  },
+   {
+    "name": "Delingsfora",
+    "imports": [
+
+    ]
+  },
+   {
+    "name": "Gjester",
+    "imports": [
+
+    ]
+  }
+   {
+    "name": "BTV-samarbeidet",
+    "imports": [
+
+    ]
   }
 ]   
+
+  
