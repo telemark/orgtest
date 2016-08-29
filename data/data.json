@@ -393,6 +393,20 @@
       ]
   },
   {
+      "name": "Team nyskaping",
+      "imports": [
+          "Kommunal- og moderniseringsdepartementet",
+          "Kjøpmenn",
+          "Merkur-konsulenter",
+          "Andre fylkeskommuner",
+          "Administrasjonen",
+          "Kommuner",
+          "Høgskolen i Sørøst-Norge",
+          "Etablererkontor",
+          "Næringshager"
+      ]
+  },
+  {
     "name": "Team kommunikasjon",
     "imports": [
 
@@ -1838,7 +1852,31 @@
     "imports": [
 
     ]
+  },
+   {
+    "name": "Etablererkontor",
+    "imports": [
+
+    ]
   },  
+   {
+    "name": "Merkur-konsulenter",
+    "imports": [
+
+    ]
+  }, 
+   {
+    "name": "Næringshager",
+    "imports": [
+
+    ]
+  },   
+   {
+    "name": "Kjøpmenn",
+    "imports": [
+
+    ]
+  },    
    {
     "name": "Voksenopplæringsansvarlig i andre fylker",
     "imports": [
