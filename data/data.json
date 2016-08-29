@@ -267,7 +267,7 @@
           "Statens vegvesen",
           "Vegdirektoratet",
           "Politi",
-          "Nasjonalt forum for stedsutvikliing",
+          "Nasjonalt forum for stedsutvikling",
           "Distriktssenteret",
           "Husbanken",
           "KS",
@@ -292,7 +292,7 @@
           "Enova",
           "Nye Veger AS",
           "Ungdomsrådene",
-          "BTVØ stedsuvikling",
+          "BTVØ stedsutvikling",
           "LO",
           "NHO",
           "Østlandssamarbeidet",
@@ -1548,7 +1548,7 @@
     ]
   },
      {
-    "name": "BTV Innkjøp",
+    "name": "BTV innkjøp",
     "imports": [
 
     ]
@@ -1560,7 +1560,7 @@
     ]
   },
      {
-    "name": "ENOVA",
+    "name": "Enova",
     "imports": [
 
     ]
@@ -1596,7 +1596,7 @@
     ]
   },
      {
-    "name": "NHO Transport",
+    "name": "NHO transport",
     "imports": [
 
     ]
@@ -1710,7 +1710,7 @@
     ]
   },
      {
-    "name": "Rogaland Taxi",
+    "name": "Rogaland taxi",
     "imports": [
 
     ]
@@ -1770,7 +1770,7 @@
     ]
   },
      {
-    "name": "Team kulturminnevern",
+    "name": "Team kulturminne",
     "imports": [
 
     ]
@@ -1873,6 +1873,12 @@
   },   
    {
     "name": "Kjøpmenn",
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "Ungt entrepenørskap",
     "imports": [
 
     ]
